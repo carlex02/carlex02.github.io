@@ -5,6 +5,6 @@
 <a href="https://carlex02.github.io/Practica3bootstrap.html">practica 3 bootstrap</a>
 <a href="https://carlex02.github.io/practica4bootstrap.html">practica 4 bootstrap</a>
 <a href="https://carlex02.github.io/practica5bootstrap.html">practica 5 bootstrap</a>
-<a href="">practica 6 bootstrap</a>
+<a href="https://carlex02.github.io/Practica6bootstrap.html">practica 6 bootstrap</a>
 <a href="">practica 7 bootstrap</a>
 <a href="">practica 8 bootstrap</a>
